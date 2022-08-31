@@ -6,7 +6,7 @@ import { TimeLineData } from '../../constants/constants';
 
 const Timeline = () => {
   return (
-    <Section id="#about">
+    <Section id="about">
       <SectionTitle style={{fontSize:"45px"}}>About me</SectionTitle>
       <SectionText style={{fontSize:"20px"}}>
       I am a Full Stack Developer, a Computer Science student and graduated from soyHenry's programming bootcamp.<br/><br/>
