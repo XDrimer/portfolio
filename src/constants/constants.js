@@ -26,6 +26,15 @@ export const projects = [
     visit: 'https://gustavotorre.vercel.app/',
     id: 2,
   },
+  {
+    title: 'Circus Cotillon',
+    description: "An SPA E-Commerce with great user experiencie and a complete Admin Dashboard to manage the entire application",
+      image: '/images/4.png',
+      tags: ['React', "Javascript", "Node", "Express", "PostgreSQL"],
+    source: 'https://github.com/CotillonCircus/WebApp',
+    visit: 'https://www.circuscotillon.com/',
+    id: 3,
+  },
 ];
 
 export const TimeLineData = [

@@ -22,6 +22,8 @@ const Technologies = () =>  (
             Sequelize ORM <br/>
             SQL <br/>
             PostgreSQL <br/>
+            MongoDB <br/>
+            JWT , Auth <br/>
           </ListParagraph>
         </ListContainer>
       </ListItem>
